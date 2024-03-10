@@ -1,0 +1,9 @@
+POST /test.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; Android SDK built for x86_64 Build/PSR1.180720.075)
+Host: anchored.com:4443
+Connection: close
+Accept-Encoding: gzip, deflate, br
+Content-Length: 48
+
+msg=UnTrUst3d_C3rT1f1C4T3s&mail=vnc%40gmail.com&
